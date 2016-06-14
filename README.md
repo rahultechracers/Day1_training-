@@ -1,4 +1,4 @@
-# Day1_training-
+# training_day1
 
 mapping of program:Question
 
