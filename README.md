@@ -6,7 +6,9 @@ pyramid: Write a program that prints a star pyramid.
 
 print_100: Write a program that prints from 1 to 100.
 
-freq_count: Using hash table, print the frequency of occurence of each character inside an array.
+freq_count: Using hash table, print the frequency of occurence of each word inside an array.
+freq_count_char: counts frequency of each character inside array 
+
 
 add_array: Join 2 arrays without using inbuilt functions.
 
